@@ -1,0 +1,33 @@
+html,
+body {
+    height:100%;
+    font-size: 1rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.gradient{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgb(4, 0, 78) 0%, rgba(9,9,121,1) 32%, rgba(0,212,255,1) 100%);
+}
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color:Blue;
+}
+.feature {
+    color:aqua
+}
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+.feature ul li {
+    padding-left: 2rem;
+    background-image: url();
+    background-repeat: no-repeat;
+    line-height: 1.Srem;
+    margin-bottom: 1rem;
+}
+.navbar-brand {
+    height: 1053px;
+    width:800px;
+}
